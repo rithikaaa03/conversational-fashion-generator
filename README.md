@@ -1,0 +1,2 @@
+Conversational GenAI-powered Fashion Outfit Generator-
+An application that harnesses the power of the user’s past purchase history, style preferences, color choices, and garment types, along with data web scraped from the latest trends in fashion blogs and generates personalized outfit suggestions. It factors in gender, occasion, and age, facilitating an interactive chatbot experience that also allows users to regenerate outfits effortlessly, which get stored in a catalogue page.
